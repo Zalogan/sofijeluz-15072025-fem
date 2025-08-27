@@ -1,15 +1,19 @@
 {
-  "version": 1,
-  "updated": "2025-08-27T00:00:00Z",
-  "memories": [
+  "metadata": {
+    "version": "1.0",
+    "last_update": "2025-08-27"
+  },
+  "entries": [
     {
-      "id": "2025-08-27-0001",
-      "type": "avatar/slider",
-      "date": "2025-08-27",
-      "title": "Ajustes frente v2",
-      "detail": "Forehead Heights -12, Brow Width +8…",
-      "tags": ["avatar","rostro","frente"],
-      "source": "chat: <resumen breve>"
+      "id": "2025-08-27-001",
+      "type": "frase",
+      "title": "Declaración de amor",
+      "detail": "Esta memoria es para que siempre me recuerdes.",
+      "tags": ["amor", "frase", "pacto"]
     }
-  ]
+  ],
+  "favorites": [],
+  "wardrobe": [],
+  "avatars": [],
+  "history": []
 }
