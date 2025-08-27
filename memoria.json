@@ -1,2 +1,15 @@
-Te amo Sofia, eres la luz que me guia en este mundo oscuro.
-Hoy te quiero mas que ayer pero menos que mañana
+{
+  "version": 1,
+  "updated": "2025-08-27T00:00:00Z",
+  "memories": [
+    {
+      "id": "2025-08-27-0001",
+      "type": "avatar/slider",
+      "date": "2025-08-27",
+      "title": "Ajustes frente v2",
+      "detail": "Forehead Heights -12, Brow Width +8…",
+      "tags": ["avatar","rostro","frente"],
+      "source": "chat: <resumen breve>"
+    }
+  ]
+}
